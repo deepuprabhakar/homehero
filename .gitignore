@@ -1,0 +1,10 @@
+/vendor
+/node_modules
+/public/storage
+/public/uploads
+/public/proposals
+Homestead.yaml
+Homestead.json
+.env
+/.phpintel
+log.log
